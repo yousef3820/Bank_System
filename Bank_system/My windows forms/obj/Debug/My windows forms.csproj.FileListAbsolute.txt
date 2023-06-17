@@ -1,0 +1,64 @@
+D:\Visual studio projects\projects\My windows forms\My windows forms\bin\Debug\My windows forms.exe.config
+D:\Visual studio projects\projects\My windows forms\My windows forms\bin\Debug\My windows forms.exe
+D:\Visual studio projects\projects\My windows forms\My windows forms\bin\Debug\My windows forms.pdb
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.csproj.AssemblyReference.cache
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.csproj.SuggestedBindingRedirects.cache
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Properties.Resources.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.csproj.GenerateResource.cache
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.csproj.CoreCompileInputs.cache
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.exe
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My windows forms.pdb
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.employee.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.sign_in_Employee.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Home.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Sign_in_customer.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.add_customer.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Admin.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Add_Bank.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Add_Bank_Branch.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Add_Employee.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Update_Employee_information.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Sign_in_Admin.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Customer.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.show_information_admin.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Request.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.Requests.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.accept_loan.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_a.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_b.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_c.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_d.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_e.resources
+D:\Visual studio projects\projects\My windows forms\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_f.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\bin\Debug\My windows forms.exe.config
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\bin\Debug\My windows forms.exe
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\bin\Debug\My windows forms.pdb
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.accept_loan.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Add_Bank.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Add_Bank_Branch.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.add_customer.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Add_Employee.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Customer.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_b.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_c.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_d.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_e.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_f.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Request.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Requests.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.show_information_admin.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Sign_in_Admin.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.sign_in_Employee.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Home.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Sign_in_customer.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.employee.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Properties.Resources.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Admin.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.Update_Employee_information.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My_windows_forms.excute_sql_statement_a.resources
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.csproj.GenerateResource.cache
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.exe
+C:\Users\user\Desktop\20200659_Bank_S34\Bank_system\My windows forms\obj\Debug\My windows forms.pdb

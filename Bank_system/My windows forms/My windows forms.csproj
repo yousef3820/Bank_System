@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1495B4C9-B1D3-498D-B7A1-C1D3FD3A00C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>My_windows_forms</RootNamespace>
+    <AssemblyName>My windows forms</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accept_loan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="accept_loan.Designer.cs">
+      <DependentUpon>accept_loan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Bank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Bank.Designer.cs">
+      <DependentUpon>Add_Bank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Bank_Branch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Bank_Branch.Designer.cs">
+      <DependentUpon>Add_Bank_Branch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="add_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="add_customer.Designer.cs">
+      <DependentUpon>add_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Employee.Designer.cs">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.Designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_b.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_b.Designer.cs">
+      <DependentUpon>excute_sql_statement_b.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_c.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_c.Designer.cs">
+      <DependentUpon>excute_sql_statement_c.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_d.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_d.Designer.cs">
+      <DependentUpon>excute_sql_statement_d.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_e.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_e.Designer.cs">
+      <DependentUpon>excute_sql_statement_e.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_f.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_f.Designer.cs">
+      <DependentUpon>excute_sql_statement_f.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Request.Designer.cs">
+      <DependentUpon>Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Requests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Requests.Designer.cs">
+      <DependentUpon>Requests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="show_information_admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="show_information_admin.Designer.cs">
+      <DependentUpon>show_information_admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign_in_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign_in_Admin.Designer.cs">
+      <DependentUpon>Sign_in_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sign_in_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sign_in_Employee.Designer.cs">
+      <DependentUpon>sign_in_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sign_in_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign_in_customer.Designer.cs">
+      <DependentUpon>Sign_in_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee.Designer.cs">
+      <DependentUpon>employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Employee_information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Employee_information.Designer.cs">
+      <DependentUpon>Update_Employee_information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="excute_sql_statement_a.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="excute_sql_statement_a.Designer.cs">
+      <DependentUpon>excute_sql_statement_a.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="accept_loan.resx">
+      <DependentUpon>accept_loan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Bank.resx">
+      <DependentUpon>Add_Bank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Bank_Branch.resx">
+      <DependentUpon>Add_Bank_Branch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="add_customer.resx">
+      <DependentUpon>add_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Employee.resx">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_b.resx">
+      <DependentUpon>excute_sql_statement_b.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_c.resx">
+      <DependentUpon>excute_sql_statement_c.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_d.resx">
+      <DependentUpon>excute_sql_statement_d.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_e.resx">
+      <DependentUpon>excute_sql_statement_e.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_f.resx">
+      <DependentUpon>excute_sql_statement_f.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Request.resx">
+      <DependentUpon>Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Requests.resx">
+      <DependentUpon>Requests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="show_information_admin.resx">
+      <DependentUpon>show_information_admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign_in_Admin.resx">
+      <DependentUpon>Sign_in_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sign_in_Employee.resx">
+      <DependentUpon>sign_in_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sign_in_customer.resx">
+      <DependentUpon>Sign_in_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee.resx">
+      <DependentUpon>employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Employee_information.resx">
+      <DependentUpon>Update_Employee_information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="excute_sql_statement_a.resx">
+      <DependentUpon>excute_sql_statement_a.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
